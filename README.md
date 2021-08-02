@@ -2,10 +2,6 @@
 A crossplatform calculator app using xamarin forms
 
 #Screenshots
-# MyClipboard
-A clipboard application for older windows versions not having clipboard service.
-
-# Screenshots
 <table>
   <tr>
     <td>  
